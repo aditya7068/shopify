@@ -31,7 +31,7 @@ const Navbar = () => {
           <Link to="/login" className="menuItem">
             LOGIN
           </Link>
-          <Link to="/register" className="menuItem">
+          <Link to="/cart" className="menuItem">
             <Badge badgeContent={4} color="primary">
               <ShoppingCartOutlined />
             </Badge>
